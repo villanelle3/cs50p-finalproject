@@ -5,8 +5,8 @@ from tabulate import tabulate
 from time import sleep
 
 
-TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjQ1YWVkNTA3LTAyMDItNGI3Yy1iYjJiLTY2NTdmNDU5MjIzNCIsImlhdCI6MTY2MjUyNzI0MCwic3ViIjoiZGV2ZWxvcGVyLzljNzIzZWQ2LWFlNTMtYjQxNS1kZjZlLTdkNWNiNzZiMWUxMSIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiNTIuMTQ5LjIyMC42OCJdLCJ0eXBlIjoiY2xpZW50In1dfQ.KaSkKF8AWZp4ImGlLWuPVaALUZrSzwBSeg4MWfvnTYSYYOagNDGenPPyrnPK3dEv2NE_KxliX0aIUBWvZ9v6KA"
-id = "YG898Q9GP"
+TOKEN = "" # your token
+id = "" # your id
 
 class Menu:
     def menu(self, option):
